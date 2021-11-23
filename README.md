@@ -1,6 +1,6 @@
 ### Hello, I am Arvind Puthucode 👋
 
-I'm a passionate computer science student on a learning curve.   
+I'm a Computer Science enthusiast. Kuddos to more learning 
 
 ### GitHub Stats
 
@@ -10,7 +10,7 @@ I'm a passionate computer science student on a learning curve.
 - 🌱 I’m currently learning Flutter -->
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about Data structures and algorithms
-- 📫 Portfolio: [LinkedIn](https://www.linkedin.com/in/nishanth-gobi-66bb631b0/)
+- 📫 Portfolio: [LinkedIn](https://www.linkedin.com/in/arvind-puthucode-4aab581a4/)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I like noisy working environments 
 
