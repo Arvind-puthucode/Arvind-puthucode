@@ -2,10 +2,6 @@
 
 I'm a Computer Science enthusiast. Kuddos to more learning 
 
-### GitHub Stats
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Arvind-puthucode&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- - 🔭 I’m currently working on ArcGis
 - 🌱 I’m currently learning Flutter -->
 - 👯 I’m looking to collaborate on projects
